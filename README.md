@@ -12,5 +12,6 @@
 
 ## Descrição do Projeto 
 - Criei uma barra de Navegação Responsiva, com o auxilio de um video.
+- HTML, CSS e JavaScript apenas, sem plugins, sem frameworks. 
 
 👋 [Check out my LinkedIn](https://www.linkedin.com/in/wenderson-campos-825b71158/)
